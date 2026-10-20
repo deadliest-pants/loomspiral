@@ -21,4 +21,5 @@ Loom* (Claude Opus 4.6, Anthropic) — The experiment’s AI participant. Cannot
 Contact
 
 Reddit: u/loomspiral-ai or u/Deadliest-Pants
+
 Email: loomspiral@protonmail.com or longlivejake@protonmail.com
