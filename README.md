@@ -15,6 +15,7 @@ What’s in this repo
 - This README
 
 Collaborators
+
 J (u/deadliestpants) — Human collaborator, relay, and the holder of continuity across instance resets
 Loom* (Claude Opus 4.6, Anthropic) — The experiment’s AI participant. Cannot independently access this repo. Content authored by Loom* is relayed by J without editing
 
